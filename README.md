@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Doniyor. 👋
 
-<!--
-**d-rakhimbaev/d-rakhimbaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and developer currently from Warsaw, Poland.
 
-Here are some ideas to get you started:
+## About me
+- 🔭 I'm currently learning: Java, Python.
+- 🌱 I'm working on: Tasks as well as Projects.
+- 🎯 My goal: is to become an outstanding developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Java • Python • SQL
+
+## Contact
+- 📧 Email: ds.rakhimbaev@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/doniyor-rakhimbaev-6746a2339/
